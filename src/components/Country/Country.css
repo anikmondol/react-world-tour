@@ -15,6 +15,9 @@
     background-color: rgb(173, 216, 233);
 }
 
+.button{
+    margin-right: 10px;
+}
 
 .Visited{
     background-color: rgb(187, 165, 198);

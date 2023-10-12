@@ -8,6 +8,12 @@
     margin-right: 40px;
 }
 
+.flag-container img{
+    padding-left: 15px;
+    height: 200px;
+    width: 200px;
+}
+
 
 @media screen and (max-width: 576px){
    

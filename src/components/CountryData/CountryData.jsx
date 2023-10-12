@@ -1,5 +1,5 @@
 
-const CountryData = ({ country, handleVisitedCountry, handleVisitedFlags }) => {
+const CountryData = ({ country }) => {
     return (
         <div>
             <hr />

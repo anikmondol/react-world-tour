@@ -2,6 +2,20 @@
     border: 2px solid rgba(10, 162, 238, 0.882);
     background-color: rgb(242, 244, 210);
     padding: 10px;
-    margin: 10px;
+    margin: 5px;
     border-radius: 15px;
+}
+
+.Pic{
+    width: 320px;
+    height: 250px;
+}
+
+.Visited-Button{
+    background-color: rgb(173, 216, 233);
+}
+
+
+.Visited{
+    background-color: rgb(187, 165, 198);
 }

@@ -1,0 +1,29 @@
+.Country-Container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.Text{
+    margin-right: 40px;
+}
+
+
+@media screen and (max-width: 576px){
+   
+    .Country-Container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 15px;
+    }
+}
+
+/* tablet or medium device */
+
+@media screen and (min-width: 576px) and (max-width: 960px){
+    .Country-Container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+}

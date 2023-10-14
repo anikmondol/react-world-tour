@@ -8,7 +8,7 @@ function App() {
     <>
     <h2>hello world</h2>
       <h1>React World Tour</h1>
-      <Countries></Countries>
+      {/* <Countries></Countries> */}
     </>
   )
 }
